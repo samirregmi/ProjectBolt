@@ -78,6 +78,7 @@ public class UIElementsFunctionalityTest {
 		WebElement homePageInsuranceBanner = driver.findElement(By.id("insurance-banner"));
 		Assert.assertTrue(homePageInsuranceBanner.isDisplayed());
 		System.out.println("boltExchangeEnterprisetext");
+		System.out.println("boltExchangeEnterprisetext12");
 }
 	@Test
 	public void verifyRequestademoTabIsFunctional() {
